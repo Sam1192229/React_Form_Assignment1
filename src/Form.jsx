@@ -90,6 +90,7 @@ const Form = () => {
     <div className='min-h-screen flex justify-between bg-gray-800'>
       <div className='flex flex-col items-center justify-center ml-72 '>
         <h1 className='text-3xl font-bold text-gray-200'>React Validation Form</h1>
+        <h2 className='text-xl font-bold text-gray-200'>copyright @ Samriddhi Mishra</h2>
       </div>
       <div className='flex flex-col items-center justify-center w-1/2'>
         <form onSubmit={handleSubmit} className="max-w-lg mx-auto p-4 w-full">
